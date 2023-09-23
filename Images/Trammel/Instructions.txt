@@ -1,0 +1,7 @@
+The PNG files were removed because they were too big.
+To generate them, open the Trammel.blend file in Blender and follow the steps:
+1. Play the animation to check if everything is working.
+2. Render the animation.
+3. Delete the first frame ("0001.png").
+4. Rename "0120.png" to "0000.png".
+5. Rename "0121.png" to "0001.png".
